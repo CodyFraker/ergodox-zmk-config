@@ -1,7 +1,7 @@
 manifest:
   remotes:
     - name: slicemk
-      url-base: https://github.com/slicemk
+      url-base: https://github.com/xudongzheng/zmk/tree/v20250120-min
   projects:
     - name: zmk
       remote: slicemk
